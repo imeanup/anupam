@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omeanup
+- 👋 Hi, I’m @omeanup aka anupam
 - 👀 I’m interested in C/C++, HTML, CSS, and Web development with Django.
 - 🌱 I’m currently learning `CS50's [Introduction to Computer Science]`([here](https://cs50.harvard.edu/)).
 - 💞️ I’m looking to collaborate on [Django](https://www.djangoproject.com/) Projects using python.
