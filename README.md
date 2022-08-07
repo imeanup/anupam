@@ -6,7 +6,7 @@
 - Previously, I worked for Zoho Creator as a Technical Support Engineer where I used to customized and troubleshoot application. Please collobrate, if you need any assistance.
 - Currently, I'm looking for a job role change.
 
-PS: Note that I deleted by old git account @meanup and starting this new account from Aug 6, 2022.
+PS: Note that I deleted my old git account `@meanup` and starting this new account from Aug 6, 2022.
 
 <!---
 omeanup/omeanup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
