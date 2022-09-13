@@ -2,7 +2,7 @@
 - 👀 I’m interested in C/C++, HTML, CSS, and Web development with Django.
 - 🌱 I’m currently learning `CS50's Introduction to Computer Science`([here](https://cs50.harvard.edu/)).
 - 💞️ I’m looking to collaborate on [Django](https://www.djangoproject.com/) Projects using python.
-- 📫 I'm reachable at discord @linkedin (link in bio) where I often check my messages.
+- 📫 I'm reachable @linkedin (link in bio) where I often check my messages.
 - Previously, I worked with Zoho Creator as a Technical Support Engineer where I used to customized and troubleshoot application. Please collobrate for any assistance in customizing creator application.
 - Currently, I'm looking for a job role change to software development engineer.
 
