@@ -6,7 +6,7 @@
 - Previously, I worked with Zoho Creator as a Technical Support Engineer where I used to customized and troubleshoot application. Please collobrate for any assistance in customizing creator application.
 - Currently, I'm looking for a job role change to software development engineer.
 
-PS: Note that I deleted my old git account `@meanup` and starting this new account from Aug 6, 2022 due to codespace back-up issue error.
+PS: Note that I deleted my old git account `@meanup` and starting this new account from Aug 6, 2022 due to codespace(private) backup error.
 
 <!---
 imeanup/imeanup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
