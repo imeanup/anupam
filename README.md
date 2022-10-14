@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imeanup aka anupam
+- 👋 Hi, I’m @[imeanup](https://github.com/imeanup) aka anupam
 - 👀 I’m interested in C, HTML, CSS, Python and Web development using Django or Flask.
 - 🌱 I’m currently learning `MIT 6.006 Introduction to Algorithms`([here](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/)).
 - 💞️ I’m looking to collaborate on [Django](https://www.djangoproject.com/) Projects using python.
