@@ -7,7 +7,7 @@
 - Currently, I'm looking for a job role change to software development engineer.
 - Devices: :iphone:1️⃣2️⃣  MacBook Pro Ⓜ️2️⃣ :headphones: Ploy
 
-> PS: Note I deleted my old git account `@meanup` and started this new account from Aug 6, 2022 onwards due to codespace(private-repo) backup error.
+> PS: Accidentally, I deleted my old git account `@meanup` and started this new account from Aug 6, 2022 onwards due to codespace(private-repo) backup error.
 
 
 <!---
