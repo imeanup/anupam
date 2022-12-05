@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning `MIT 6.006 Introduction to Algorithms` ([here](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/)).
 - 💞️ I’m looking to collaborate on [Django](https://www.djangoproject.com/) Projects using python.
 - 📫 Say Hi, @[linkedin](https://www.linkedin.com/in/anupam-6a2529247/) or :sparkles: @[keybase](https://keybase.io/imeanup). 
-- Previously, I worked in Zoho Creator as a Technical Support Engineer, where I used to customize and troubleshoot applications in Creator platform. Please collobrate for any assistance in customizing creator application.
+- Previously, I worked as a Technical Support Engineer in Zoho Creator where I used to customize and troubleshoot applications using the Creators' platform. Please DM for collobration in any assistance in customizing the creators' applications.
 - Currently, I'm looking for a job role change to software development engineer.
 - Devices: :iphone:1️⃣2️⃣  MacBook Pro Ⓜ️2️⃣ :headphones: Ploy
 
