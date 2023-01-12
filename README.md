@@ -5,7 +5,7 @@
 - 📫 Say Hi, @[linkedin](https://www.linkedin.com/in/anupam-6a2529247/) or :sparkles: @[keybase](https://keybase.io/imeanup). 
 - Previously, I worked as a Technical Support Engineer in Zoho Creator where I used to customize and troubleshoot applications using the Creators' platform. Please DM for collobration in any assistance in customizing the creators' applications.
 - Currently, I'm looking for a job role change to software development engineer.
-- Devices: :iphone:1️⃣2️⃣  MacBook Pro Ⓜ️2️⃣ :headphones: Ploy
+- Devices: :iphone:1️⃣2️⃣  MacBook Pro Ⓜ️2️⃣ 💻 :headphones: Ploy
 
 > PS: Accidentally, I deleted my old git account `@meanup` and started this new account from Aug 6, 2022 onwards due to codespace(private-repo) backup error.
 
