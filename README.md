@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @[imeanup](https://github.com/imeanup) aka anupam
 - 👀 I’m interested in C, HTML, CSS, Python and Web development using Django or Flask.
 - 🌱 I’m currently learning `MIT 6.006 Introduction to Algorithms` ([here](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/)).
-- 💞️ I’m looking to collaborate on [Django](https://www.djangoproject.com/) Projects using python.
+- 📖 I'm reading `Object Oriented Programming with C++`, `Introduction to Algorithms`, `The Design and Analysis of Computer Algorithms`, and `The Anarchy`.
+- 💞️ I’m looking to collaborate on [Django](https://www.djangoproject.com/) and Flask Projects using python.
 - 📫 Say Hi, @[linkedin](https://www.linkedin.com/in/anupam-6a2529247/) or :sparkles: @[keybase](https://keybase.io/imeanup). 
 - Previously, I worked as a Technical Support Engineer in Zoho Creator where I used to customize and troubleshoot applications using the Creators' platform. Please DM for collobration in any assistance in customizing the creators' applications.
 - Currently, I'm looking for a job role change to software development engineer.
