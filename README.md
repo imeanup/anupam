@@ -4,7 +4,7 @@
 - 📖 I'm reading `Object Oriented Programming with C++`, `Introduction to Algorithms`, `The Design and Analysis of Computer Algorithms`, and `The Anarchy`.
 - 💞️ I’m looking to collaborate on [Django](https://www.djangoproject.com/) and Flask Projects using python.
 - 📫 Say Hi, @[linkedin](https://www.linkedin.com/in/anupam-6a2529247/) or :sparkles: @[keybase](https://keybase.io/imeanup). 
-- Previously, I worked as a Technical Support Engineer in Zoho Creator where I used to customize and troubleshoot applications using the Creators' platform. Please DM for collobration in any assistance in customizing the creators' applications.
+- My previous experience doesn't brings much result in my technical skill sets. However, I worked as a Technical Support Engineer in [Zoho Creator](https://github.com/imeanup/zoho-creator) where I used to customize and troubleshoot applications using the Creators' platform. 
 - Currently, I'm looking for a job role change to software development engineer.
 - Devices: :iphone:1️⃣2️⃣  MacBook Pro Ⓜ️2️⃣ 💻 :headphones: Ploy
 
