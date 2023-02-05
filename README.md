@@ -1,17 +1,18 @@
-- 👋 Hi, I’m @[imeanup](https://github.com/imeanup) aka anupam
-- 👀 I’m interested in C, HTML, CSS, Python and Web development using Django or Flask.
-- 🌱 I’m currently learning `MIT 6.006 Introduction to Algorithms` ([here](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/)).
-- 📖 I'm reading `Object Oriented Programming with C++`, `Introduction to Algorithms`, `The Design and Analysis of Computer Algorithms`, and `The Anarchy`.
-- 💞️ I’m looking to collaborate on [Django](https://www.djangoproject.com/) and Flask Projects using python.
-- 📫 Say Hi, @[linkedin](https://www.linkedin.com/in/anupam-6a2529247/) or :sparkles: @[keybase](https://keybase.io/imeanup). 
-- My previous experience doesn't brings much result in my technical skill sets. However, I worked as a Technical Support Engineer in [Zoho Creator](https://github.com/imeanup/zoho-creator) where I used to customize and troubleshoot applications using the Creators' platform. 
-- Currently, I'm looking for a job role change to software development engineer.
-- Devices: :iphone:1️⃣2️⃣  MacBook Pro Ⓜ️2️⃣ 💻 :headphones: Ploy
+- 👋 Greetings, I’m @[imeanup](https://github.com/imeanup), also known as Anupam.
+- 👀 I have a keen interest in various technologies such as C, HTML, CSS, Python, and web development using Django or Flask.
+- 🌱 Currently, I’m pursuing `MIT 6.006 Introduction to Algorithms` ([here](https://ocw.mit.edu/courses/6-006-introduction-to-algorithms-spring-2020/pages/syllabus/)) and also reading 📖 `Object Oriented Programming with C++`, `Introduction to Algorithms`, `The Design and Analysis of Computer Algorithms`, and `The Anarchy`.
+- 💞️ I am seeking opportunities to collaborate on projects related to [Django](https://www.djangoproject.com/) and Flask using Python. 
+- 📫 If you would like to connect, you can reach out to me via @[linkedin](https://www.linkedin.com/in/anupam-6a2529247/) or :sparkles: @[keybase](https://keybase.io/imeanup). 
+- I previously worked as a Technical Support Engineer at [Zoho Creator](https://github.com/imeanup/zoho-creator), where I customized and troubleshot applications using the platform. 
+- Currently, I am seeking a career change to a software development engineer role. 
+- I use a variety of devices such as an :iphone:1️⃣2️⃣,  MacBook Pro Ⓜ️2️⃣ 💻, and Ploy :headphones:.
 
-> I deleted my old git account `@meanup` and started this new account from Aug 6, 2022 onwards due to codespace(private-repo) backup error.
 
-#### [LeetCode](https://leetcode.com/meanup/) 🧑🏾‍💻 [HackerRank](https://www.hackerrank.com/meanup)
+> Please note that I deleted my previous git account `@meanup` and started this new account on August 6, 2022 due to a codespace backup error.
 
+#### If you're interested, you can follow my progress on [LeetCode](https://leetcode.com/meanup/) 🧑🏾‍💻 [HackerRank](https://www.hackerrank.com/meanup)
+
+### Thank you for visiting my profile!
 <!---
 imeanup/imeanup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
