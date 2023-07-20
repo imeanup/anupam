@@ -1,5 +1,5 @@
 - 👋 Greetings, I’m @[imeanup](https://github.com/imeanup), also known as Anupam.
-- 👀 I have a keen interest in various programming languages such as C/C++, HTML, Python, and web development using Django or Flask.
+- 👀 I have a keen interest in various programming languages such as C/C++, HTML, Python, CSS, Ruby(not an expert), Go(idk now).
 - 🌱 Currently, I’m not reading 📖 `Data Structure through C in Depth` and `Database System Concepts`, BUT applying now.
 - 💞️ I am seeking opportunities to collaborate on projects related to [Django](https://www.djangoproject.com/) and Flask using Python. 
 - 📫 If you would like to connect, you can reach out to me via @[linkedin](https://www.linkedin.com/in/anupam-6a2529247/) or :sparkles: @[keybase](https://keybase.io/imeanup). 
