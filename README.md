@@ -12,7 +12,6 @@
 
 #### If you're interested, you can follow my progress on [LeetCode](https://leetcode.com/meanup/) 🧑🏾‍💻 [HackerRank](https://www.hackerrank.com/meanup)
 
-
 ### Thank you for visiting my profile!
 <!---
 imeanup/imeanup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
