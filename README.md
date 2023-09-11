@@ -10,9 +10,8 @@
 
 > I deleted my previous git account `@meanup` and started this new account on August 6, 2022 due to a codespace backup error.
 
-<!---
 #### If you're interested, you can follow my progress on [LeetCode](https://leetcode.com/meanup/) 🧑🏾‍💻 [HackerRank](https://www.hackerrank.com/meanup)
---->
+
 
 ### Thank you for visiting my profile!
 <!---
