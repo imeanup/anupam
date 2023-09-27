@@ -12,9 +12,7 @@
 
 #### If you're interested, you can follow my progress on [LeetCode](https://leetcode.com/meanup/) 🧑🏾‍💻 [HackerRank](https://www.hackerrank.com/meanup)
 
-### Thank you for visiting my profile!
-
-![](https://komarev.com/ghpvc/?username=imeanup&color=green)
+### Thank you for visiting my profile! ![](https://komarev.com/ghpvc/?username=imeanup&color=green)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=imeanup&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 <!---
