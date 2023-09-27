@@ -1,5 +1,6 @@
 - 👋 Greetings, I’m @[imeanup](https://github.com/imeanup), also known as Anupam.
 - 👀 I have a keen interest in various programming languages such as C/C++, HTML, Python, CSS, Ruby(not an expert), Go(idk now).
+    
 - 🌱 Currently, I’m not reading 📖 `Data Structure through C in Depth` and `Database System Concepts`. Because I'm applying them.
 - 💞️ I am seeking opportunities to collaborate on projects related to backend with any technology which makes me alive. 
 - 📫 If you would like to connect, you can reach out to me via @[linkedin](https://www.linkedin.com/in/anupam-6a2529247/) or :sparkles: @[keybase](https://keybase.io/imeanup). 
@@ -14,8 +15,13 @@
 
 ### Thank you for visiting my profile! ![](https://komarev.com/ghpvc/?username=imeanup&color=green)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=imeanup&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imeanup" alt="imeanup" /></a> </p>
+
+
+<p style="text-align:center;"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=imeanup&show_icons=true&locale=en&layout=compact" alt="imeanup" ></p>
 <!---
 imeanup/imeanup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
+[![trophy](https://github-profile-trophy.vercel.app/?username=imeanup&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 --->
