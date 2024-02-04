@@ -6,7 +6,7 @@
 - 📫 If you would like to connect, you can reach out to me via @[linkedin](https://www.linkedin.com/in/anupam-6a2529247/) or :sparkles: @[keybase](https://keybase.io/imeanup). 
 - I previously worked as a Technical Support Engineer at [Zoho Creator](https://help.zoho.com/portal/en/community/user/4002441383850), where I customized and troubleshot applications using the platform. 
 - Currently, I am seeking a career change to a software development engineer role. 
-- I use a variety of devices such as an :iphone:1️⃣2️⃣,  MacBook Pro Ⓜ️2️⃣ 💻, and AirPods Pro2️⃣  🎧
+- I use a variety of devices such as an :iphone:1️⃣2️⃣,  MacBook Pro Ⓜ️2️⃣ 💻, AirPods Pro2️⃣  🎧, MX Master 3S, and Magic Keyboard.
 
 
 #### If you're interested, you can follow my progress on [LeetCode](https://leetcode.com/meanup/) 🧑🏾‍💻 [HackerRank](https://www.hackerrank.com/meanup)
