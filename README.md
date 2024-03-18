@@ -8,9 +8,6 @@
 - Currently, I am seeking a career change to a software development engineer role. 
 - I use a variety of devices such as an :iphone:1️⃣2️⃣,  MacBook Pro Ⓜ️2️⃣ 💻, AirPods Pro2️⃣  🎧, MX Master 3S, and Magic Keyboard.
 
-
-#### If you're interested, you can follow my progress on [LeetCode](https://leetcode.com/meanup/) 🧑🏾‍💻 [HackerRank](https://www.hackerrank.com/meanup)
-
 ### Thank you for visiting my profile! ![](https://komarev.com/ghpvc/?username=imeanup&color=green)
 
 
